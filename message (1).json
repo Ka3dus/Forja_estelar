@@ -1,0 +1,37 @@
+{
+  "username": "",
+  "avatar_url": "",
+  "content": "",
+  "embeds": [
+    {
+      "title": "-\"__Olá forasteiro, porque não fica e ....escuta essa historia?__\"",
+      "color": 3998318,
+      "description": "**Atenção ❗**\n\n1. Hoje eu voltarei a postar no canal de flashbacks\n\n2. Não garanto fazer todo dia para não se tornar enjoativo e desgastante\n\n3. Já separei alguns temas para fazer e acredito que irão gostar\n\n4. Toda e qualquer ajuda é Bem vinda, seja para corrigir incoerências na historia ou fazer um flashback de seus personagens\n5. Também usarei esse chat para apresentar a historia de alguns outros personagens novos\n\n----------------------------------------------------------------------- \n*Lista de flashbacks*\n\n1. 🔴Kelfar - O Chefe\n2. <:Fome:1017823581121552414> - O Senhor da Fome\n3.  <:Crisol:1017828407544905740> - O Crisol\n4. <:negasol:1017829808832512180> - Negasol\n\nEstas são as historias que planejei por, caso queira implementar mais é só me avisar :)",
+      "timestamp": "",
+      "author": {
+        "name": "|O Contador de historias|",
+        "url": "",
+        "icon_url": "https://imgur.com/GCqkxWT.jpg"
+      },
+      "image": {},
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "text": "|O Contador de historias| \"- Espero que tenha gostado dessa pequena historia, volte mais tarde para mais\".",
+        "icon_url": ""
+      },
+      "fields": []
+    },
+    {
+      "color": 0,
+      "timestamp": "",
+      "author": {},
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": []
+    }
+  ],
+  "components": []
+}
